@@ -1,5 +1,5 @@
 - # Sobre mim
-- 👋 Ola meu nome é @euviniciusoliveira
+- 👋 Ola meu nome é @viniciusoliveira
 - 👀 Sou aluno do IEEL
 - 🌱 Estou interresado a aprender a programar
 <!---
