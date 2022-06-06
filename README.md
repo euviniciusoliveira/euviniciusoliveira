@@ -1,6 +1,6 @@
 - # Sobre mim
 - 👋 Ola meu nome é @euviniciusoliveira
-- 👀 Sou alunno do IEEL
+- 👀 Sou aluno do IEEL
 - 🌱 Estou interresado a aprender a programar
 <!---
 euviniciusoliveira/euviniciusoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
